@@ -23,6 +23,9 @@ StockTradingSystem/
 │       │   │   └── workflow/                    # 【工作流模块】详见 §2（★ 本轮新增报告库/定时批处理/市场域种子/市场工具）
 │       │   └── resources/
 │       │       └── application.yml              # 数据源(Hikari 30/10) / Flowable 异步执行器(core 8/max 16) / agent.model.* 三组模型配置
+│       │                                        #   ★ 密钥管理：真实 API Key 一律不入库，放 backend/application-local.yml（gitignore，
+│       │                                        #   经 spring.config.import: optional:file:./application-local.yml 加载）或环境变量
+│       │                                        #   DEEPSEEK_API_KEY / KIMI_API_KEY / SERPER_API_KEY；AnalysisEngineService 密钥改走 @Value 配置链
 │       └── test/java/com/stock/                 # 后端测试（工作流模块 12 类 + 股票分析模块 10 类，详见 §5）
 │           ├── workflow/engine/                 # JsonToBpmnConverterTest / WorkflowEngineIntegrationTest / WorkflowRunServiceStartTest / StockContextPreloaderTest / WorkflowTextUtilsTest / tools（★ Stock、MarketToolsParamTest）
 │           ├── workflow/service/                # WorkflowGeneratorServiceTest / ★ WorkflowSeedServiceTest / ★ ReportLibraryServiceTest / ★ ReportExportServiceTest
