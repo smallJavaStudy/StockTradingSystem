@@ -1,0 +1,1 @@
+{"error":true,"status":409,"message":"股票 999999 数据不足且自动拉取失败（K线 0 条，低于可分析阈值 10）：[X] 行情接口返回空（代码可能无效）: 999999；[X] K线接口返回空: 999999；[X] 财务接口返回空: 999999；[X] 资金流拉取失败: I/O error on GET request for \"https://push2his.eastmoney.com/api/qt/stock/fflow/daykline/get\": Unexpected end of file from server。已阻断工作流启动以避免 LLM 空跑；请确认股票代码有效、东财接口可达后重试"}

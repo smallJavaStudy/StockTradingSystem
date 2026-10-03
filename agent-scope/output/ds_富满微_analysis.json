@@ -1,0 +1,107 @@
+{
+  "basic": {
+    "code": "300671",
+    "name": "富满微",
+    "exchange": "SZSE",
+    "industry_l1": "电子",
+    "industry_l2": "半导体",
+    "industry_l3": "模拟芯片设计",
+    "listing_date": "2017-07-05",
+    "concept_tags": "芯片概念,集成电路,第三代半导体,5G,LED,电源管理,国产替代"
+  },
+  "company": {
+    "full_name": "富满微电子集团股份有限公司",
+    "legal_representative": "刘景裕",
+    "actual_controller": "刘景裕",
+    "established_date": "2001-11-05",
+    "business_scope": "集成电路、IC、三极管的设计、研发、生产、销售；LED照明、LED驱动、LED显示屏、LED背光源的研发、生产、销售；电子元器件、电子产品的销售；经营进出口业务（以上法律、行政法规、国务院决定禁止的项目除外，限制的项目须取得许可后方可经营）。",
+    "website": "http://www.fuman.com.cn",
+    "business_model": "FABLESS",
+    "business_model_note": "无晶圆厂设计公司，专注于模拟及数模混合集成电路的设计，晶圆制造和封装测试外包给第三方代工厂（如中芯国际、华虹半导体、长电科技等）。"
+  },
+  "industry_chain": {
+    "core_product": "电源管理芯片、LED驱动芯片、MOSFET、射频前端芯片、MCU",
+    "industry_position": "FABLESS",
+    "upstream": "晶圆代工厂（中芯国际、华虹半导体等）、封装测试厂（长电科技、通富微电等）、EDA工具供应商",
+    "downstream": "消费电子（约40%）、LED照明与显示（约25%）、通信设备（约15%）、工业控制（约10%）、汽车电子（约5%）及其他",
+    "key_customers": "国内消费电子品牌商（如小米、OPPO等ODM/OEM客户）、LED照明及显示屏厂商（如利亚德、洲明科技等）、通信设备商",
+    "key_suppliers": "中芯国际、华虹半导体、长电科技、通富微电",
+    "lifecycle_stage": "GROWTH",
+    "lifecycle_note": "受益于国产替代趋势和下游应用需求增长（5G、物联网、新能源），公司营收规模持续扩大，但行业竞争激烈，毛利率波动较大，处于成长中后期向成熟期过渡阶段。",
+    "policy_impact": "国家集成电路产业大基金扶持、国产替代政策推动、税收优惠（集成电路设计企业享受所得税减免）、《中国制造2025》重点支持半导体产业自主可控。",
+    "industry_trend": "模拟芯片市场持续增长，国产替代加速，电源管理芯片向高集成度、低功耗方向发展；LED驱动芯片随Mini/Micro LED渗透率提升有结构性机会；射频前端受益于5G通信设备需求。",
+    "industry_size": "中国模拟芯片市场规模2023年约3000亿元，预计2025年超3500亿元",
+    "industry_growth": "中国模拟芯片市场增速约8-10%",
+    "tech_route": "BCD工艺、CMOS工艺、GaN/SiC第三代半导体技术、先进封装（SiP、WLCSP）"
+  },
+  "products": [
+    {
+      "product_name": "电源管理芯片",
+      "tier": "CASH_COW",
+      "revenue_ratio_approx": "50",
+      "gross_margin_approx": "30-38",
+      "competitiveness": "国内电源管理芯片品类较全，涵盖DC-DC、LDO、充电管理、快充协议等，性价比高，客户覆盖广，但同质化竞争激烈，毛利率受价格战影响波动。"
+    },
+    {
+      "product_name": "LED驱动芯片",
+      "tier": "CASH_COW",
+      "revenue_ratio_approx": "25",
+      "gross_margin_approx": "25-32",
+      "competitiveness": "在LED照明和显示屏驱动领域有一定市占率，受益于Mini/Micro LED技术迭代，但面临明微电子等强敌竞争，产品毛利率偏低。"
+    },
+    {
+      "product_name": "MOSFET",
+      "tier": "GROWTH_ENGINE",
+      "revenue_ratio_approx": "15",
+      "gross_margin_approx": "25-35",
+      "competitiveness": "中低压MOSFET产品线较完善，用于消费电子和工业控制，受益于国产替代，但与国际大厂（英飞凌、安森美）技术差距明显。"
+    },
+    {
+      "product_name": "射频前端芯片",
+      "tier": "FUTURE_ALPHA",
+      "revenue_ratio_approx": "5",
+      "gross_margin_approx": "35-45",
+      "competitiveness": "布局5G射频开关、低噪声放大器等，技术壁垒较高，目前营收占比较低，但长期受益于通信设备国产化，增长潜力大。"
+    },
+    {
+      "product_name": "MCU及其他",
+      "tier": "FUTURE_ALPHA",
+      "revenue_ratio_approx": "5",
+      "gross_margin_approx": "30-40",
+      "competitiveness": "小家电、消费电子用MCU，处于起步阶段，产品线较薄弱，竞争力有限。"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "圣邦股份",
+      "code": "300661",
+      "business_model": "FABLESS",
+      "main_product": "信号链模拟芯片（运放、比较器、ADC/DAC）、电源管理芯片",
+      "scarcity": "HIGH",
+      "scarcity_note": "国内模拟芯片龙头，产品型号超4000种，覆盖消费、工业、汽车等多领域，稀缺性强",
+      "moat": "STRONG",
+      "moat_note": "产品线丰富，技术积累深厚，客户粘性高，毛利率稳定在50%以上，研发投入大",
+      "advantage": "产品品类多、技术领先、毛利率高、客户优质（华为、三星等）",
+      "disadvantage": "估值较高，规模扩张期费用压力大",
+      "comparison_summary": "圣邦股份在模拟芯片领域技术实力和产品丰富度远超富满微，但富满微在电源管理和LED驱动方面有成本优势。"
+    },
+    {
+      "name": "明微电子",
+      "code": "688699",
+      "business_model": "FABLESS",
+      "main_product": "LED驱动芯片、电源管理芯片",
+      "scarcity": "MEDIUM",
+      "scarcity_note": "LED驱动芯片细分领域市占率较高，但产品线相对单一",
+      "moat": "MEDIUM",
+      "moat_note": "在LED显示屏驱动领域有技术积累和客户关系，但受下游需求波动影响大",
+      "advantage": "LED驱动芯片技术成熟，成本控制好，客户稳定",
+      "disadvantage": "产品结构单一，过度依赖LED领域，抗周期能力弱",
+      "comparison_summary": "明微电子与富满微在LED驱动芯片领域直接竞争，明微电子更专注，富满微产品线更广。"
+    }
+  ],
+  "risk": [
+    "结构性风险：产品以中低端电源管理和LED驱动为主，毛利率偏低且受价格战影响大；高端模拟芯片（如信号链、射频）布局薄弱，技术壁垒低，长期面临国产替代红利减弱后的增长瓶颈。",
+    "周期性风险：半导体行业具有明显周期波动，下游消费电子需求疲软时公司营收和利润承压；晶圆代工产能紧张或涨价时，公司作为Fabless模式成本端压力较大。"
+  ],
+  "summary": "富满微是国内中低端模拟芯片设计公司，以电源管理和LED驱动为基本盘，受益国产替代但毛利率低、竞争激烈，未来增长依赖射频和高端产品突破，投资需关注行业周期和价格战风险。"
+}

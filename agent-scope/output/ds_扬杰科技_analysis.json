@@ -1,0 +1,100 @@
+{
+  "basic": {
+    "code": "300373",
+    "name": "扬杰科技",
+    "exchange": "SZSE",
+    "industry_l1": "电子",
+    "industry_l2": "半导体",
+    "industry_l3": "分立器件",
+    "listing_date": "2014-01-23",
+    "concept_tags": "功率半导体,IGBT,第三代半导体,汽车电子,充电桩,光伏,国产替代"
+  },
+  "company": {
+    "full_name": "扬州扬杰电子科技股份有限公司",
+    "legal_representative": "梁勤",
+    "actual_controller": "梁勤",
+    "established_date": "2000-06-01",
+    "business_scope": "半导体器件及集成电路、半导体芯片及材料、电子元器件的研发、生产、销售；自营和代理各类商品及技术的进出口业务",
+    "website": "www.21yangjie.com",
+    "business_model": "FABLITE",
+    "business_model_note": "采用FabLite模式，自建部分晶圆产线（4/5/6/8英寸），同时外协部分产能，具备IDM的垂直整合特性但非完全自建"
+  },
+  "industry_chain": {
+    "core_product": "功率二极管、整流桥、MOSFET、IGBT、SiC器件",
+    "industry_position": "IDM",
+    "upstream": "硅片、光刻胶、化学品、设备（如光刻机、刻蚀机）",
+    "downstream": "消费电子（约30%）、汽车电子（约25%）、工控（约20%）、光伏储能（约15%）、通信（约10%）",
+    "key_customers": "华为、比亚迪、阳光电源、格力、美的等",
+    "key_suppliers": "沪硅产业、中环股份、日本信越等硅片供应商，以及各类设备供应商",
+    "lifecycle_stage": "GROWTH",
+    "lifecycle_note": "功率半导体行业受益于新能源、汽车电子、光伏等需求拉动，国产替代空间大，行业增速保持在10-15%以上",
+    "policy_impact": "受益于国家集成电路产业政策扶持（大基金、税收优惠）、国产替代战略及新能源补贴政策",
+    "industry_trend": "向SiC/GaN第三代半导体演进，车规级和高压高功率产品需求增长，国产替代加速",
+    "industry_size": "2023年中国功率半导体市场规模约1500亿元",
+    "industry_growth": "2024-2026年预计年复合增速约12%",
+    "tech_route": "硅基功率器件（二极管/MOSFET/IGBT）为主，SiC MOSFET和SiC SBD逐步量产"
+  },
+  "products": [
+    {
+      "product_name": "功率二极管与整流桥",
+      "tier": "CASH_COW",
+      "revenue_ratio_approx": "40",
+      "gross_margin_approx": "30",
+      "competitiveness": "传统优势产品，市占率国内领先，工艺成熟，成本控制能力强，客户基础稳固，但竞争激烈，价格压力较大"
+    },
+    {
+      "product_name": "MOSFET",
+      "tier": "GROWTH_ENGINE",
+      "revenue_ratio_approx": "25",
+      "gross_margin_approx": "28",
+      "competitiveness": "中低压MOSFET品类齐全，在消费电子和工控领域份额提升，部分车规级产品已通过认证，受益于国产替代"
+    },
+    {
+      "product_name": "IGBT模块与单管",
+      "tier": "GROWTH_ENGINE",
+      "revenue_ratio_approx": "15",
+      "gross_margin_approx": "32",
+      "competitiveness": "重点发展方向，已进入光伏逆变器和新能源汽车电驱供应链，对标英飞凌，但良率和可靠性仍有差距"
+    },
+    {
+      "product_name": "SiC器件（二极管/MOSFET）",
+      "tier": "FUTURE_ALPHA",
+      "revenue_ratio_approx": "5",
+      "gross_margin_approx": "35",
+      "competitiveness": "第三代半导体布局，SiC SBD已量产，SiC MOSFET处于客户验证阶段，未来有望在800V高压平台中放量"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "华润微",
+      "code": "688396",
+      "business_model": "IDM",
+      "main_product": "功率器件（MOSFET/IGBT）、模拟IC、MCU",
+      "scarcity": "HIGH",
+      "scarcity_note": "国内稀缺的IDM平台型企业，拥有6/8/12英寸晶圆线",
+      "moat": "STRONG",
+      "moat_note": "全产业链整合能力，客户覆盖广，产品线丰富",
+      "advantage": "晶圆代工+自有产品双轮驱动，产能规模大",
+      "disadvantage": "产品聚焦中低压，高压IGBT和SiC布局较晚",
+      "comparison_summary": "华润微平台更宽，扬杰科技在二极管和整流桥细分更专"
+    },
+    {
+      "name": "士兰微",
+      "code": "600460",
+      "business_model": "IDM",
+      "main_product": "IGBT、MOSFET、IPM模块、MEMS传感器",
+      "scarcity": "HIGH",
+      "scarcity_note": "国内少数以IDM模式运营的功率半导体企业",
+      "moat": "STRONG",
+      "moat_note": "自建6/8/12英寸产线，车规IGBT已大规模供货",
+      "advantage": "IGBT和IPM模块的技术积累深厚，车规市场领先",
+      "disadvantage": "产品线相对单一，对汽车和工控依赖较重",
+      "comparison_summary": "士兰微IGBT更强，扬杰科技二极管和整流桥更全"
+    }
+  ],
+  "risk": [
+    "结构性风险：产品以中低压功率器件为主，在高压高功率领域与英飞凌等国际巨头仍有较大差距，高端化转型存在技术瓶颈；SiC产品尚处早期，良率与成本控制面临挑战",
+    "周期性风险：功率半导体行业受下游消费电子、汽车、光伏等周期影响明显，2023-2024年行业进入去库存阶段，公司营收和利润承压；晶圆产能扩张带来折旧压力"
+  ],
+  "summary": "扬杰科技是国内功率半导体领先的FabLite企业，二极管和整流桥基本盘稳固，MOSFET和IGBT受益于新能源与国产替代增长，SiC布局提供长期弹性，但需警惕行业周期波动和高端化进展不及预期的风险（不构成投资建议）"
+}

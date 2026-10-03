@@ -1,0 +1,1 @@
+{"tradeable":true,"klineCount":120,"financeCount":8,"fundflowCount":0,"detail":"[OK] 行情(Serper): 现价 38.80 涨跌幅 -0.44%；[OK] K线 120 条 (2026-02-06 ~ 2026-08-07)；[X] 资金流拉取失败: I/O error on GET request for \"https://push2his.eastmoney.com/api/qt/stock/fflow/daykline/get\": Unexpected end of file from server"}

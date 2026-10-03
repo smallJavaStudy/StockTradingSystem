@@ -1,0 +1,334 @@
+{"conversationId":"d019f9cb-0098-47b0-a1b9-6206cb5974af","type":"meta"}
+{"content":"让我","type":"delta"}
+{"content":"调用","type":"delta"}
+{"content":"行情","type":"delta"}
+{"content":"工具","type":"delta"}
+{"content":"查询","type":"delta"}
+{"content":"最新","type":"delta"}
+{"content":"数据","type":"delta"}
+{"content":"。","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"今日","type":"delta"}
+{"content":" A","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"股","type":"delta"}
+{"content":"行情","type":"delta"}
+{"content":"总","type":"delta"}
+{"content":"览","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"（","type":"delta"}
+{"content":"数据","type":"delta"}
+{"content":"截至","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"202","type":"delta"}
+{"content":"6","type":"delta"}
+{"content":"-","type":"delta"}
+{"content":"07","type":"delta"}
+{"content":"-","type":"delta"}
+{"content":"29","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"，","type":"delta"}
+{"content":"T","type":"delta"}
+{"content":"+","type":"delta"}
+{"content":"1","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"盘","type":"delta"}
+{"content":"后","type":"delta"}
+{"content":"口径","type":"delta"}
+{"content":"，","type":"delta"}
+{"content":"非","type":"delta"}
+{"content":"盘中","type":"delta"}
+{"content":"实时","type":"delta"}
+{"content":"）\n\n","type":"delta"}
+{"content":"---\n\n","type":"delta"}
+{"content":"###","type":"delta"}
+{"content":" 🔥","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"市场","type":"delta"}
+{"content":"情绪","type":"delta"}
+{"content":"：","type":"delta"}
+{"content":"主","type":"delta"}
+{"content":"升","type":"delta"}
+{"content":"阶段","type":"delta"}
+{"content":"（","type":"delta"}
+{"content":"情绪","type":"delta"}
+{"content":"分","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"75","type":"delta"}
+{"content":".","type":"delta"}
+{"content":"1","type":"delta"}
+{"content":"）\n\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"指标","type":"delta"}
+{"content":" |","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"数值","type":"delta"}
+{"content":" |\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":"------","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":"------","type":"delta"}
+{"content":"|\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"情绪","type":"delta"}
+{"content":"分","type":"delta"}
+{"content":" |","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"75","type":"delta"}
+{"content":".","type":"delta"}
+{"content":"1","type":"delta"}
+{"content":" /","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"100","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"（","type":"delta"}
+{"content":"比","type":"delta"}
+{"content":"前","type":"delta"}
+{"content":"日","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"51","type":"delta"}
+{"content":".","type":"delta"}
+{"content":"9","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"大幅","type":"delta"}
+{"content":"跃","type":"delta"}
+{"content":"升","type":"delta"}
+{"content":"）","type":"delta"}
+{"content":" |\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"周期","type":"delta"}
+{"content":"定性","type":"delta"}
+{"content":" |","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"主","type":"delta"}
+{"content":"升","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":" |\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"涨停","type":"delta"}
+{"content":"家","type":"delta"}
+{"content":"数","type":"delta"}
+{"content":" |","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"81","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"家","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"（","type":"delta"}
+{"content":"前","type":"delta"}
+{"content":"日","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"61","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"家","type":"delta"}
+{"content":"，","type":"delta"}
+{"content":"+","type":"delta"}
+{"content":"32","type":"delta"}
+{"content":".","type":"delta"}
+{"content":"8","type":"delta"}
+{"content":"%）","type":"delta"}
+{"content":" |\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"最高","type":"delta"}
+{"content":"连","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":" |","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"7","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"（","type":"delta"}
+{"content":"前","type":"delta"}
+{"content":"日","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"6","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"，","type":"delta"}
+{"content":"高度","type":"delta"}
+{"content":"打开","type":"delta"}
+{"content":"）","type":"delta"}
+{"content":" |\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"炸","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"率","type":"delta"}
+{"content":" |","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"40","type":"delta"}
+{"content":".","type":"delta"}
+{"content":"7","type":"delta"}
+{"content":"%（","type":"delta"}
+{"content":"前","type":"delta"}
+{"content":"日","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"39","type":"delta"}
+{"content":".","type":"delta"}
+{"content":"3","type":"delta"}
+{"content":"%，","type":"delta"}
+{"content":"略有","type":"delta"}
+{"content":"上升","type":"delta"}
+{"content":"但","type":"delta"}
+{"content":"可控","type":"delta"}
+{"content":"）","type":"delta"}
+{"content":" |\n","type":"delta"}
+{"content":"|","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"封","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"率","type":"delta"}
+{"content":" |","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"59","type":"delta"}
+{"content":".","type":"delta"}
+{"content":"3","type":"delta"}
+{"content":"%","type":"delta"}
+{"content":" |\n\n","type":"delta"}
+{"content":"###","type":"delta"}
+{"content":" 📊","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"核心","type":"delta"}
+{"content":"结论","type":"delta"}
+{"content":"\n\n","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"赚钱","type":"delta"}
+{"content":"效应","type":"delta"}
+{"content":"显著","type":"delta"}
+{"content":"扩散","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"——","type":"delta"}
+{"content":"涨停","type":"delta"}
+{"content":"家","type":"delta"}
+{"content":"数","type":"delta"}
+{"content":"突破","type":"delta"}
+{"content":"80","type":"delta"}
+{"content":"家","type":"delta"}
+{"content":"、","type":"delta"}
+{"content":"连","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"高度","type":"delta"}
+{"content":"突破","type":"delta"}
+{"content":"到","type":"delta"}
+{"content":"7","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"，","type":"delta"}
+{"content":"短线","type":"delta"}
+{"content":"资金","type":"delta"}
+{"content":"风险","type":"delta"}
+{"content":"偏好","type":"delta"}
+{"content":"明显","type":"delta"}
+{"content":"提升","type":"delta"}
+{"content":"。","type":"delta"}
+{"content":"情绪","type":"delta"}
+{"content":"从","type":"delta"}
+{"content":"冰","type":"delta"}
+{"content":"点","type":"delta"}
+{"content":"/","type":"delta"}
+{"content":"启动","type":"delta"}
+{"content":"快速","type":"delta"}
+{"content":"过渡","type":"delta"}
+{"content":"到","type":"delta"}
+{"content":"主","type":"delta"}
+{"content":"升","type":"delta"}
+{"content":"阶段","type":"delta"}
+{"content":"。\n\n","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"需","type":"delta"}
+{"content":"注意","type":"delta"}
+{"content":"的风险","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"：","type":"delta"}
+{"content":"炸","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"率","type":"delta"}
+{"content":"仍","type":"delta"}
+{"content":"超","type":"delta"}
+{"content":"40","type":"delta"}
+{"content":"%，","type":"delta"}
+{"content":"说明","type":"delta"}
+{"content":"高位","type":"delta"}
+{"content":"分歧","type":"delta"}
+{"content":"加大","type":"delta"}
+{"content":"，","type":"delta"}
+{"content":"追","type":"delta"}
+{"content":"高","type":"delta"}
+{"content":"应","type":"delta"}
+{"content":"选","type":"delta"}
+{"content":"封","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"质量","type":"delta"}
+{"content":"好的","type":"delta"}
+{"content":"前排","type":"delta"}
+{"content":"龙头","type":"delta"}
+{"content":"，","type":"delta"}
+{"content":"回避","type":"delta"}
+{"content":"跟","type":"delta"}
+{"content":"风","type":"delta"}
+{"content":"杂","type":"delta"}
+{"content":"毛","type":"delta"}
+{"content":"股","type":"delta"}
+{"content":"。\n\n","type":"delta"}
+{"content":"---\n\n","type":"delta"}
+{"content":"如果你想","type":"delta"}
+{"content":"进一步","type":"delta"}
+{"content":"了解","type":"delta"}
+{"content":"：\n","type":"delta"}
+{"content":"-","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"涨停","type":"delta"}
+{"content":"股","type":"delta"}
+{"content":"池","type":"delta"}
+{"content":"/","type":"delta"}
+{"content":"连","type":"delta"}
+{"content":"板","type":"delta"}
+{"content":"梯队","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"？","type":"delta"}
+{"content":" →","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"调用","type":"delta"}
+{"content":"涨停","type":"delta"}
+{"content":"池","type":"delta"}
+{"content":"工具","type":"delta"}
+{"content":"\n","type":"delta"}
+{"content":"-","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"龙","type":"delta"}
+{"content":"虎","type":"delta"}
+{"content":"榜","type":"delta"}
+{"content":"主力","type":"delta"}
+{"content":"资金","type":"delta"}
+{"content":"动向","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"？","type":"delta"}
+{"content":" →","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"调用","type":"delta"}
+{"content":"龙","type":"delta"}
+{"content":"虎","type":"delta"}
+{"content":"榜","type":"delta"}
+{"content":"工具","type":"delta"}
+{"content":"\n","type":"delta"}
+{"content":"-","type":"delta"}
+{"content":" **","type":"delta"}
+{"content":"某","type":"delta"}
+{"content":"只","type":"delta"}
+{"content":"具体","type":"delta"}
+{"content":"个股","type":"delta"}
+{"content":"的","type":"delta"}
+{"content":"行情","type":"delta"}
+{"content":"**","type":"delta"}
+{"content":"？","type":"delta"}
+{"content":" →","type":"delta"}
+{"content":" ","type":"delta"}
+{"content":"告诉我","type":"delta"}
+{"content":"股票","type":"delta"}
+{"content":"代码","type":"delta"}
+{"type":"done"}

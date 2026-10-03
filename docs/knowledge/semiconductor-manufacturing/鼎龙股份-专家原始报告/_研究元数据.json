@@ -1,0 +1,12 @@
+{
+  "pipeline_version" : "1.0",
+  "duration_seconds" : 292,
+  "start_time" : "2026-07-22T00:37:38.471902200Z",
+  "framework" : "AgentScope 2.0 HarnessAgent",
+  "stock_name" : "鼎龙股份(300054)",
+  "end_time" : "2026-07-22T00:42:30.935671900Z",
+  "model" : "deepseek-chat (DeepSeek V4)",
+  "completed_count" : 5,
+  "stock_code" : "300054",
+  "experts" : [ "半导体材料专家", "半导体设备专家", "芯片制造工艺专家", "中国半导体产业生态专家", "半导体供应链与制裁专家" ]
+}

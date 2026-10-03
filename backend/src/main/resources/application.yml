@@ -1,0 +1,66 @@
+server:
+  port: 8080
+
+spring:
+  # 本地密钥文件（不入库）：真实 API Key 放 backend/application-local.yml，见 .gitignore
+  config:
+    import: optional:file:./application-local.yml
+  datasource:
+    url: jdbc:mysql://localhost:3306/stock_db?useSSL=false&serverTimezone=Asia/Shanghai&characterEncoding=UTF-8
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # Flowable async executor（max 16 线程）长 LLM 节点会持有连接，与股票分析共享连接池，扩容防耗尽
+    hikari:
+      maximum-pool-size: 30
+      minimum-idle: 10
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        format_sql: true
+
+# Flowable 工作流引擎（共享主数据源，自动建 ACT_* 表）
+# max-pool-size ≥ 12：股票分析工作流约 9 个并行 LLM 节点，预留余量防排队饿死
+flowable:
+  database-schema-update: true
+  async-executor-activate: true
+  async-executor-core-pool-size: 8
+  async-executor-max-pool-size: 16
+  async-executor-queue-size: 100
+  async-executor-thread-name-prefix: workflow-async-
+  process:
+    async:
+      executor:
+        async-job-lock-time-in-millis: 1800000
+
+agent:
+  model:
+    deepseek-v4:
+      api-key: ${DEEPSEEK_API_KEY:}
+      base-url: https://api.deepseek.com
+      model-name: deepseek-chat
+    deepseek-v5:
+      api-key: ${DEEPSEEK_API_KEY:}
+      base-url: https://api.deepseek.com
+      model-name: deepseek-chat
+    kimi:
+      api-key: ${KIMI_API_KEY:}
+      base-url: https://api.kimi.com/coding
+      model-name: kimi-for-coding
+
+# Serper.dev Google 搜索 API — 系统默认优先的外部数据获取通道（DataEnricher / web_search 工具）
+serper:
+  api-key: ${SERPER_API_KEY:}
+  base-url: https://google.serper.dev
+  num: 10
+
+# AgentOS 用户画像服务地址（个性化智能体依赖）
+agent-os:
+  base-url: http://localhost:8081
+
+logging:
+  level:
+    com.stock.agent.ProfileClient: DEBUG
